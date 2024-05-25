@@ -52,3 +52,11 @@ Model's performance and evaluation under:
     <li>newly formed enriched dataset</li></ul>
 </li>
 </ol>
+
+#### NOTE
+<p align="justify">One might encounter an error while adding new features to the original dataset when selecting a random sample whose size is greater then 10,000 in step-2. This is due to the row limit imposed by the trial version of Upgini. The trial version only allows you to enrich up to 10,000 rows. To resolve this, you have a few options:
+<ul>
+<li>Reduce the number of rows to 10,000 or fewer: You can sample a smaller subset of your dataset for enrichment to stay within the trial limits.</li>
+<li>Upgrade your Upgini account: Consider upgrading to a paid plan if you need to enrich more than 10,000 rows.</li>
+<li>Bypass the enrichment for larger datasets: If you don't need the enrichment, you can proceed without it.</li>
+</p>
