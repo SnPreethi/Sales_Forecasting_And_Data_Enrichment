@@ -11,7 +11,7 @@
 <li> 4th column: the number of times the item has been sold (a particular item has been sold X number of times in Y particular store on Zth date)</li>
 </ul></p>
 
-### WHAT ARE WE GOING TO DO WITH WITH THIS DATASET?
+### WHAT ARE WE GOING TO DO WITH THIS DATASET?
 <p align="justify">Based on five years of sales data from 10 different stores, this project aims to predict the next three months of sales for each individual item in these stores. By analyzing historical trends, the model will forecast future demand to aid in inventory management and sales planning.</p>
 
 ### WHAT ARE WE USING TO SOLVE THIS PROBLEM?
